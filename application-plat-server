@@ -7,7 +7,7 @@ spring:
   application:
     name: EMPLOYEE-PROVIDER
 server:
-  port: 8001
+  port: 8009
 eureka:
   client:
     service-url:
@@ -21,7 +21,7 @@ spring:
   application:
     name: EMPLOYEE-PROVIDER-TEST
 server:
-  port: 8002
+  port: 8008
 eureka:
   client:
     service-url:
